@@ -1,0 +1,3 @@
+练习获取服务器数据的Demo
+该项目主要利用Android开发常用的开源库实现对服务器端数据（json）的获取和解析
+该项目主要用到okhttp+glide+gson解析+recyclerview展示，服务器的数据是来自干货集中营提供的json数据。
